@@ -44,7 +44,7 @@
         "url": "https://fonts.googleapis.com/css?family=DM+Sans:400,400i,500,500i,700,700i"
       }
     ],
-    "favicon": "@PROJECT_PATH@/assets/images/ekyc-108x54.png",
+    "favicon": "@PROJECT_PATH@/assets/images/ofh.png",
     "noImageResize": true,
     "cssOptimize": true,
     "lazyLoad": true,
