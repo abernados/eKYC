@@ -997,6 +997,7 @@ section.lazy-placeholder:after {
   overflow: hidden;
   position: relative;
   width: 150px;
+  margin-left: 6rem;
 }
 .cid-rV1jKCt68U .card-img:before {
   content: '';
@@ -1214,9 +1215,6 @@ section.lazy-placeholder:after {
   transition: all 0.3s;
   pointer-events: none;
   z-index: 2;
-}
-.cid-rV1rE2vIfW .card-img:hover:before {
-  opacity: 0.4;
 }
 .cid-rV1rE2vIfW .card-img:hover img {
   transform: scale(1.05);
