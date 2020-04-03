@@ -64,9 +64,9 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
-        "header_custom": "",
+        "title": "OFH",
+        "meta_descr": "Onboard your clients from the comfort of their homes. ",
+        "header_custom": "<meta name=\"title\" content=\"OFH>\n<meta name=\"description\" content=\"Onboard your clients from the comfort of their homes. \">\n<meta name=\"robots\" content=\"index, follow\">\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\">\n<meta name=\"language\" content=\"English\">\n\n<!-- Open Graph / Facebook -->\n<meta property=\"og:type\" content=\"website\">\n<meta property=\"og:url\" content=\"http://ofh.ekyc.ph/\">\n<meta property=\"og:title\" content=\"OFH\">\n<meta property=\"og:description\" content=\"Onboard your clients from the comfort of their homes. \">\n\n<!-- Twitter -->\n<meta property=\"twitter:url\" content=\"http://ofh.ekyc.ph/\">\n<meta property=\"twitter:description\" content=\"Onboard your clients from the comfort of their homes.\">\n",
         "footer_custom": "",
         "html_before": ""
       },
@@ -742,7 +742,7 @@
               "padding-top": "5px"
             },
             ".padding-5rem": {
-              "padding-top": "5rem"
+              "padding-top": "3rem"
             },
             ".btn": {
               "padding": "0.4rem 0.6rem",
