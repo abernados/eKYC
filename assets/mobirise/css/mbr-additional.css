@@ -962,7 +962,7 @@ section.lazy-placeholder:after {
 .cid-rV1UgJYPmb {
   padding-top: 45px;
   padding-bottom: 60px;
-  background-image: url("../../../assets/images/banner-2.jpg");
+  background-image: url("../../../assets/images/ofm-image.png");
 }
 .cid-rV1UgJYPmb .mbr-text {
   color: #767676;
@@ -1138,8 +1138,18 @@ section.lazy-placeholder:after {
 .cid-rV3FJ2Fbw9 .soc-item a {
   padding-top: 5px;
 }
+@media (min-width: 768px) {
+  .cid-rV3FJ2Fbw9 .davao {
+    padding-top: 3.5rem;
+  }
+}
 .cid-rV3FJ2Fbw9 .padding-5rem {
-  padding-top: 3rem;
+  padding-top: 2rem;
+}
+@media (min-width: 992px) {
+  .cid-rV3FJ2Fbw9 .davao {
+    padding-top: 2rem;
+  }
 }
 .cid-rV3FJ2Fbw9 .btn {
   padding: 0.4rem 0.6rem;
