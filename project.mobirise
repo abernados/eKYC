@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "home.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "photom4",
       "title": "PhotoM4",
@@ -61,7 +61,7 @@
     "screenshot": "screenshot.png"
   },
   "pages": {
-    "home.html": {
+    "index.html": {
       "settings": {
         "main": true,
         "title": "OFH",
