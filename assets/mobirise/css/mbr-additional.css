@@ -1049,8 +1049,7 @@ section.lazy-placeholder:after {
   padding-bottom: 45px;
   background-image: url("../../../assets/images/abstract-technology-futuristic-style-circles-and-light-dots-glowing-on-dark-blue-background-vector.jpg");
 }
-.cid-rV3OCK3MEa img {
-  width: 120px;
+.cid-rV3OCK3MEa a {
   margin: auto;
 }
 .cid-rV3OCK3MEa .card {
@@ -1071,7 +1070,7 @@ section.lazy-placeholder:after {
 .cid-rV3OCK3MEa .mbr-section-btn {
   color: #716c80;
 }
-.cid-rV3OCK3MEa div.card img {
+.cid-rV3OCK3MEa a img.company {
   vertical-align: 10px;
   max-height: 5rem;
   width: auto;
